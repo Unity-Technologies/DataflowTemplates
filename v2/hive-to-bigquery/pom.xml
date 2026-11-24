@@ -28,7 +28,7 @@
     <properties>
         <hive.version>2.1.0</hive.version>
         <hadoop.version>2.8.5</hadoop.version>
-        <jackson.version>2.11.2</jackson.version>
+        <jackson.version>2.18.11</jackson.version>
         <truth.version>1.0.1</truth.version>
     </properties>
 
