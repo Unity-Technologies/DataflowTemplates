@@ -53,7 +53,7 @@
         <findbugs.version>3.0.1</findbugs.version>
         <mvn-target-dir>${basedir}/target</mvn-target-dir>
         <derby.version>10.15.2.0</derby.version>
-        <json.version>20200518</json.version>
+        <json.version>20260719</json.version>
         <excluded.spanner.tests>com.google.cloud.teleport.v2.spanner.IntegrationTest</excluded.spanner.tests>
     </properties>
 
