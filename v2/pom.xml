@@ -52,7 +52,7 @@
         <joda.version>2.10.5</joda.version>
         <findbugs.version>3.0.1</findbugs.version>
         <mvn-target-dir>${basedir}/target</mvn-target-dir>
-        <derby.version>10.15.2.0</derby.version>
+        <derby.version>10.17.1.0</derby.version>
         <json.version>20200518</json.version>
         <excluded.spanner.tests>com.google.cloud.teleport.v2.spanner.IntegrationTest</excluded.spanner.tests>
     </properties>
